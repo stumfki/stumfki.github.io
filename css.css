@@ -1,0 +1,30 @@
+
+body {
+	background-image: url(../slike/ozadje.jpg);
+	background-repeat: no-repeat;
+	background-size: 1980px 1080px;
+}
+
+header {
+   font-family: Verdana;
+   color: white;
+   text-align: center;
+}
+main {
+	text-align: center;
+	color: white;
+}
+a {
+	color: white;
+
+}
+ul {
+	text-align: center;
+	list-style: none;
+
+}
+nav {
+	background-color: black;
+
+
+}
